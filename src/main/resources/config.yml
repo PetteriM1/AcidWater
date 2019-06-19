@@ -1,0 +1,8 @@
+acid-rain: true
+acid-water: true
+
+acid-duration-ticks: 60
+acid-check-ticks: 20
+
+effect-amplifier: 0
+effect-visible: true
