@@ -1,8 +1,11 @@
 acid-rain: true
 acid-water: true
+acid-water-bottle: true
 
 acid-duration-ticks: 60
 acid-check-ticks: 20
 
 effect-amplifier: 0
 effect-visible: true
+
+any-mob: false
